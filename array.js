@@ -12,3 +12,4 @@ console.log(vowel);
 //string array
 var friendName = ['arnob', 'emon', 'istiaq', 'oni', 'udoy'];
 console.log(friendName);
+console.log(friendName.length);
