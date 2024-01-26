@@ -14,7 +14,8 @@ var num1 = 9;
 var num2 = 4;
 console.log(num1 > num2);
 console.log(num1 < num2);
-console.log(num1 === num2);
+console.log(num1 === num2); //value and type check
+console.log(num1 == num2); //only value check 
 console.log(num1 !== num2);
 console.log(num1 >= num2);
 console.log(num1 <= num2);
