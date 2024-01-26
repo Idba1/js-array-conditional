@@ -10,3 +10,9 @@ console.log(friendAge);
 var friendAge = [29, 60, 45, 58, 18, 34];
 friendAge.pop();
 console.log(friendAge);
+
+
+
+var friendAge = [29, 60, 45, 58, 18, 34];
+var newElements = friendAge.pop();
+console.log(newElements);
